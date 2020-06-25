@@ -1,2 +1,15 @@
-# quantico_desafio
-FrontEnd utilizando Vue.js | Vuetify para cumprimento de desafio proposto pela Quantico.
+-> Tecnologias 
+
+# Vue.js
+# Vuetify
+
+-> Setup do projeto
+
+   npm install
+
+
+-> Inicializa Server de desenvolvimento
+
+   npm run serve
+
+
